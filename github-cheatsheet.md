@@ -1,6 +1,6 @@
 ## SUBMITTING THE LABS
 1. **Fork** the lab
-2. **Clone** the lab to your computer (navigate to the folder where you keep all your labs and paste the command that will most likely be in this format: https://github.com/your-username/title-of-the-lab.git)
+2. **Clone** the lab to your computer (navigate to the folder where you keep all your labs and paste the command that will most likely be in this format: **git clone** https://github.com/your-username/title-of-the-lab.git)
 3. Run **git remote -v** -> to make sure you cloned from your GitHub not the Ironhack labs (this will happen if you forgot to fork, so this is a check point)
 4. **git status** => here you can check on which files you made changes
 5. After each iteration, commit the change and do this at the very end. The steps are:  
