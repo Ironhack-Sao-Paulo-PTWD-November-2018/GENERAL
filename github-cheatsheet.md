@@ -10,7 +10,7 @@
 6. Now if you go to your GitHub you will see all the changes you made and just pushed. Now make PULL REQUEST so everyone in the team can see what you did and the TA can check your code. Go on "PULL REQUESTS" and click on "NEW PULL REQUEST". 
 7. When submitting use this format: <br>
         a) individual assessment: **[SAO PT1 - DE - W1D1] Your Name** <br>
-        b) pair-programming assessment: **[SAO PT1 - PP - W1D1] Your Name & Your Partners Name**
+        b) pair-programming assessment: **[SAO PT1 - PP - W1D1] Your Name & Your Partners Name**<br>
         **SAO PT1** = Our classroom<br>
         **DE** / **PP** = Daily exercise / Pair-programming<br>
         **W1** = Week 1
