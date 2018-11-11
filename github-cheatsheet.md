@@ -23,5 +23,5 @@
         <br>
         **SAO PT1** = Our classroom<br>
         **DE** / **PP** = Daily exercise / Pair-programming<br>
-        **W1** = Week 1
+        **W1** = Week 1<br>
         **D1** = Day 1
