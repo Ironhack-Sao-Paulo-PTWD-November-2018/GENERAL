@@ -27,5 +27,5 @@
         **D1** = Day 1
 
 ## GITT REMOTE ADD
-**git remote add <name> <url>**<br />
-**git push <name> master**
+**git remote add [name] [url] <br>
+git push [name] master**
