@@ -26,6 +26,8 @@
         **W1** = Week 1<br>
         **D1** = Day 1
 
-## GITT REMOTE ADD
+
+
+## GIT REMOTE ADD
 **git remote add [name] [url] <br>
 git push [name] master**
