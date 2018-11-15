@@ -26,7 +26,7 @@
         **W1** = Week 1<br>
         **D1** = Day 1
 
-
+***
 
 ## GIT REMOTE ADD
 **git remote add [name] [url] <br>
