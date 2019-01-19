@@ -16,10 +16,10 @@
 
 7. When submitting use this format: <br>
         a) individual assessment:<br>
-        **[SAO PT1 - DE - W1D1] Your Name**<br>
+        **[SAO PT1 - DE - M1D1] Your Name**<br>
         <br>
         b) pair-programming assessment:<br>
-        **[SAO PT1 - PP - W1D1] Your Name & Your Partners Name**<br>
+        **[SAO PT1 - PP - M1D1] Your Name & Your Partners Name**<br>
         <br>
         **SAO PT1** = Our classroom<br>
         **DE** / **PP** = Daily exercise / Pair-programming<br>
